@@ -1,0 +1,11 @@
+C:\Users\manoh\workspace\csharp\InheritanceIntro\bin\Debug\netcoreapp3.1\InheritanceIntro.exe
+C:\Users\manoh\workspace\csharp\InheritanceIntro\bin\Debug\netcoreapp3.1\InheritanceIntro.deps.json
+C:\Users\manoh\workspace\csharp\InheritanceIntro\bin\Debug\netcoreapp3.1\InheritanceIntro.runtimeconfig.json
+C:\Users\manoh\workspace\csharp\InheritanceIntro\bin\Debug\netcoreapp3.1\InheritanceIntro.runtimeconfig.dev.json
+C:\Users\manoh\workspace\csharp\InheritanceIntro\bin\Debug\netcoreapp3.1\InheritanceIntro.dll
+C:\Users\manoh\workspace\csharp\InheritanceIntro\bin\Debug\netcoreapp3.1\InheritanceIntro.pdb
+C:\Users\manoh\workspace\csharp\InheritanceIntro\obj\Debug\netcoreapp3.1\InheritanceIntro.csprojAssemblyReference.cache
+C:\Users\manoh\workspace\csharp\InheritanceIntro\obj\Debug\netcoreapp3.1\InheritanceIntro.AssemblyInfoInputs.cache
+C:\Users\manoh\workspace\csharp\InheritanceIntro\obj\Debug\netcoreapp3.1\InheritanceIntro.AssemblyInfo.cs
+C:\Users\manoh\workspace\csharp\InheritanceIntro\obj\Debug\netcoreapp3.1\InheritanceIntro.dll
+C:\Users\manoh\workspace\csharp\InheritanceIntro\obj\Debug\netcoreapp3.1\InheritanceIntro.pdb
